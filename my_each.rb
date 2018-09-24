@@ -1,6 +1,3 @@
-require 'pry'
-
-
 def my_each(array)
   i = 0
   while i < array.length
@@ -9,5 +6,3 @@ def my_each(array)
   end
   array
 end
-
-binding.pry
